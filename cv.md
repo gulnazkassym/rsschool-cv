@@ -1,21 +1,19 @@
 # Gulnaz Kassymova
 
-![Profile avatar](https://github.com/gulnazkassym/rsschool-cv/blob/gh-pages/avatar.JPG)
-
 ### Contact Information
 
-Email: [gulnazkassym@gmail.com](mailto:gulnazkassym@gmail.com)
-Telegram: [@sunage_daydream](https://t.me/sunage_daydream)
-Linkedin: [Gulnaz Kassymova](https://www.linkedin.com/in/gulnaz-kassymova-365883152)
+Email: [gulnazkassym@gmail.com](mailto:gulnazkassym@gmail.com)<br/>
+Telegram: [@sunage_daydream](https://t.me/sunage_daydream)<br/>
+Linkedin: [Gulnaz Kassymova](https://www.linkedin.com/in/gulnaz-kassymova-365883152)<br/>
 Github: [@gulnazkassym](https://github.com/gulnazkassym)
 
 ### Summary
 
-I had several classes of Mobile Application Development when I was a student. After graduation, I got into a company that worked with **ruby**. It is already more than two years using ruby as main language in my life, but I still remember the joy of development of mobile applications. Since then I had some attempts to dive more into mob dev, but it didn't seem to work. I really like the process of realizing that you can actually create something real by coding. Despite my eternal love to **ruby**, I think that mobile application development has more to do with creativity which I highly appreciate. That is why I want to learn mobile dev, specifically based on iOS, because I am a huge fan of Apple products :)
+I had several classes of Mobile Application Development when I was a student. After graduation, I got into a company that worked with *ruby*. It is already more than two years using ruby as main language in my life, but I still remember the joy of development of mobile applications. Since then I had some attempts to dive more into mob dev, but it didn't seem to work. I really like the process of realizing that you can actually create something real by coding. Despite my eternal love to *ruby*, I think that mobile application development has more to do with creativity which I highly appreciate. That is why I want to learn mobile dev, specifically based on iOS, because I am a huge fan of Apple products :)
 
 ### Skills
 
-I had some C++, C, Java, PHP classes as a student, but that was a long time ago. I had an experience to work with Javascript and even took "getting started" courses for VueJS. And also I had chance to create little demo apps based on iOS (Swift) and Android (Java). But the main language that I use everyday is Ruby and with the Rails framework and RSpec of course :) Git is my friend with whom I interact every day, but there are still some commands that I'm not familiar with.
+I had some *C++, C, Java, PHP* classes as a student, but that was a long time ago. I had an experience to work with Javascript and even took "getting started" courses for *VueJS*. And also I had a chance to create little demo apps based on *iOS (Swift)* and *Android (Java)*. But the main language that I use everyday is *Ruby* and with the Rails framework and RSpec of course :) Git is my friend with whom I interact every day, but there are still some commands that I'm not familiar with.
 
 ### Code examples
 
